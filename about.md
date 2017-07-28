@@ -4,10 +4,8 @@ title: About
 active: about
 ---
 
+This is a website sandbox for me to play around with.
 
-This is a simple two-column [jekyll](https://jekyllrb.com/) theme delicated to wrting.
+It will be used for playing around in Jekyll, html/css and potentially blogging/mind dumps.
 
-You can get to know more about this theme [here]().
-
-
-Theme inspire by [Farbtle](https://github.com/YCF/Farbtle), I steal most CSS from him.
+This site is powered by Jekyll and hosted by Github, using the theme [Xian](https://github.com/KrisYu/Xian), by [Kris Yu](https://github.com/KrisYu)

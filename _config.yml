@@ -12,7 +12,6 @@ paginate: 5
 paginate_path: "/page:num/"
 gems: [jekyll-paginate]
 
-
 # Comments
 # disqus:
 #   shortname: xxxx-xxxxx-xxx   # your disqus shortname
