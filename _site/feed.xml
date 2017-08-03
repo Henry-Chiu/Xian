@@ -3,10 +3,10 @@
   <channel>
     <title>Henry Chiu</title>
     <description>Just have some fun here</description>
-    <link>/</link>
-    <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 04 Aug 2017 00:43:23 +1000</pubDate>
-    <lastBuildDate>Fri, 04 Aug 2017 00:43:23 +1000</lastBuildDate>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 04 Aug 2017 01:06:22 +1000</pubDate>
+    <lastBuildDate>Fri, 04 Aug 2017 01:06:22 +1000</lastBuildDate>
     <generator>Jekyll v3.5.1</generator>
     
       <item>
@@ -18,8 +18,8 @@ Hi everyone :)&lt;/p&gt;
 Still need to figure out what markdown does..&lt;/p&gt;
 </description>
         <pubDate>Mon, 17 Jul 2017 00:00:00 +1000</pubDate>
-        <link>/2017/07/17/First-Post.html</link>
-        <guid isPermaLink="true">/2017/07/17/First-Post.html</guid>
+        <link>http://localhost:4000/2017/07/17/First-Post.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/07/17/First-Post.html</guid>
         
         
       </item>
@@ -255,8 +255,8 @@ Still need to figure out what markdown does..&lt;/p&gt;
 &lt;p&gt;Reprehenderit non eu quis in ad elit esse qui aute id &lt;a href=&quot;#!&quot;&gt;incididunt&lt;/a&gt; dolore cillum. Esse laboris consequat dolor anim exercitation tempor aliqua deserunt velit magna laboris. Culpa culpa minim duis amet mollit do quis amet commodo nulla irure.&lt;/p&gt;
 </description>
         <pubDate>Tue, 07 Mar 2017 00:00:00 +1100</pubDate>
-        <link>/2017/03/07/markdown-testpage.html</link>
-        <guid isPermaLink="true">/2017/03/07/markdown-testpage.html</guid>
+        <link>http://localhost:4000/2017/03/07/markdown-testpage.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/03/07/markdown-testpage.html</guid>
         
         
       </item>
