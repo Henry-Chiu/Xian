@@ -17,4 +17,4 @@ gems: [jekyll-paginate]
 #   shortname: xxxx-xxxxx-xxx   # your disqus shortname
 
 # Google Analytics
-# google_analytics: xx-xxxxxxxx-1  # your google analytics
+google_analytics: UA-104010610-1  # your google analytics
